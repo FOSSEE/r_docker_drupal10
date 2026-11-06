@@ -2,5 +2,5 @@ name: 'Textbook Companion'
 description: 'IIT Bombay Textbook Companion project'
 package: IITB
 type: module
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^9 || ^10 || ^11
 dependencies: {  }
